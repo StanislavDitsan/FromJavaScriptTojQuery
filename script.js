@@ -2,7 +2,7 @@ $(document).ready(function() {
  
 
  	$("#stream1_btn").on("click", function() {
- 		$(".stream1").fadeTo(1000, 0.1);
+ 		$(".stream1").fadeTo(1000, 0.1);om
 		
 		
 	});
